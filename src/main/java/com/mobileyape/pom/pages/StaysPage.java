@@ -25,12 +25,6 @@ public class StaysPage extends PageObject {
     @FindBy(xpath = "(//android.widget.ImageView[@resource-id='com.booking:id/facet_search_box_basic_field_icon'])[1]")
     private WebElementFacade txtDestination;
 
-    @FindBy(xpath = "//android.widget.LinearLayout[@resource-id='com.booking:id/facet_search_box_accommodation_dates']/android.widget.TextView[1]")
-    private WebElementFacade txtDate;
-
-    @FindBy(xpath = "//android.widget.TextView[contains(@text, 'room')]")
-    private WebElementFacade txtOccupancy;
-
     @FindBy(xpath = "//android.widget.Button[@resource-id='com.booking:id/facet_search_box_cta']")
     private WebElementFacade btnSearch;
 
@@ -117,12 +111,6 @@ public class StaysPage extends PageObject {
 
     @FindBy(id = "com.booking:id/action_image_button")
     private WebElementFacade btnAddMissing;
-
-    @FindBy(xpath = "//android.view.ViewGroup[@resource-id='com.booking:id/bp_price_summary_prices_flex']/android.widget.TextView")
-    private WebElementFacade lblTotalFinal;
-
-    @FindBy(xpath = "//android.widget.TextView[@resource-id='com.booking:id/bp_price_summary_taxes_and_charges']")
-    private WebElementFacade lblTaxesAndChargesFinal;
 
     @FindBy(id = "com.booking:id/new_credit_card_number_edit")
     private WebElementFacade txtCardNumber;

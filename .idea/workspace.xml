@@ -4,27 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8343116f-b337-4864-8da8-74fa375ab978" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mobileyape/pom/definitions/StaysDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mobileyape/pom/pages/StaysPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mobileyape/pom/steps/StaysStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mobileyape/pom/utils/AssertionMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mobileyape/pom/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mobileyape/pom/utils/SessionVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobileyape/pom/runners/BookingStaysRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/booking_stays.feature" afterDir="false" />
+    <list default="true" id="8343116f-b337-4864-8da8-74fa375ab978" name="Changes" comment="- Se agrega la información del proyecto de front de Yape al Repositorio en Git.">
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/0d9896d6002be1a2a7bed4f1eab2528452e2dac56d3a80faeadc4e6fd61adcc8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/1cec011b523b2a2fce9ee5dafcc9ff08db9465fb37165fa44193fda46630ffa4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/27673878572444e5977fcaefac6f9afd0a62d504059c23bf69c0cf4272762067.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/2faaf7fc5b79f2964bf994c353366c345d7c8de46f669e29d1b99ffbc1ebd47a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/682acc0ba027e5c6bb3555cbb2463059d5ada467dff28c45df9bccd9a81f9666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/6839a7d9106016246fcedf850591d13a25387c4e14c69b7328ff645d85d49df3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/a912a588a3c620b5b8996c2432bbae6e62d012030e1bd6ce4aa4d1098c357d29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/ac064ad6e22199071d4025dd4c96df9b357bc5c23d4116315de54f74bb649a3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/browser-appium.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/ebd2bbd1d03f2ab328202a66bcf08b46f26623a11c7b12181175fc84d96188cb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/f0230954a9877581d0a8ba096c596c0a6dff31835ec435eff4b026dfa12b1ec8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mobileyape/pom/pages/StaysPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mobileyape/pom/pages/StaysPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +100,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699488702571</updated>
     </task>
+    <task id="LOCAL-00001" summary="- Se agrega la información del proyecto de front de Yape al Repositorio en Git.">
+      <created>1700021240378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700021240378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="- Se agrega la información del proyecto de front de Yape al Repositorio en Git." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Se agrega la información del proyecto de front de Yape al Repositorio en Git." />
   </component>
 </project>
